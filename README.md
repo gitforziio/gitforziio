@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Roomcar's github stats](https://github-readme-stats-seven-gilt.vercel.app/api?username=gitforziio&show_icons=true)
+
 <!--
 **gitforziio/gitforziio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
