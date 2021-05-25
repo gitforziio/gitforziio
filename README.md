@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [⭐️](https://github.com/gitforziio/fav)
 
 <!-- &theme=nord -->
