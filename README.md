@@ -2,7 +2,10 @@
 
 [⭐️](https://github.com/gitforziio/fav)
 
-![Roomcar's github stats](https://github-readme-stats-seven-gilt.vercel.app/api?username=gitforziio&theme=nord&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Roomcar)
+<!-- &theme=nord -->
+
+![Roomcar's github stats](https://github-readme-stats-seven-gilt.vercel.app/api?username=gitforziio&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Roomcar)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitforziio&layout=compact)
 
 [![Trea-V-sure](https://github-readme-stats.vercel.app/api/pin/?username=gitforziio&repo=Trea-V-sure)](https://github.com/gitforziio/Trea-V-sure)
