@@ -2,7 +2,7 @@
 
 <!-- &theme=nord -->
 
-![Roomcar's github stats](https://github-readme-stats-seven-gilt.vercel.app/api?username=gitforziio&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Roomcar)
+<!-- ![Roomcar's github stats](https://github-readme-stats-seven-gilt.vercel.app/api?username=gitforziio&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true&custom_title=Roomcar) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitforziio&layout=compact)
 
