@@ -1,3 +1,10 @@
+
+
+<!-- 3AD3C6 -->
+
+
+[![Leave me a message](https://img.shields.io/badge/🗯%20%20%20%20Leave%20me%20a%20message-green)](https://github.com/gitforziio/Personal-Message-Board/issues/new)
+
 [⭐️](https://github.com/gitforziio/fav)
 
 <!-- &theme=nord -->
