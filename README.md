@@ -5,7 +5,8 @@
 
 <!-- https://shields.io/badges/static-badge -->
 
-[![jsontool](https://img.shields.io/badge/🪄%20%20%20%20jsontool-fff)](https://tridict.github.io/jsontool/)
+[![jsontool](https://img.shields.io/badge/🪄%20%20%20%20jsontool-fff)](https://tridict.github.io/jsontool/) 
+[![AgentCompany](https://img.shields.io/badge/🤖%20%20%20%20AgentCompany-fff)](https://gitforziio.github.io/agent-company/) 
 
 [![message board](https://img.shields.io/badge/🗯%20%20%20%20Leave%20me%20a%20message-41C464)](https://github.com/gitforziio/Personal-Message-Board/issues/new)
 
