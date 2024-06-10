@@ -13,7 +13,6 @@
 近期希望在模式识别、强化学习、多模态模型方面得到能力提升。
 
 [![2D World](https://img.shields.io/badge/👾%20%20%20%202D%20World-A68DCC)](https://gitforziio.github.io/TwoDWorld/) 
-
 [![message board](https://img.shields.io/badge/🗯%20%20%20%20MSG%20Board-41C464)](https://github.com/gitforziio/Personal-Message-Board/issues/new) 
 [![fav](https://img.shields.io/badge/__-grey)](https://github.com/gitforziio/fav) 
 
