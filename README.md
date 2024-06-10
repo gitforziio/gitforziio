@@ -1,8 +1,4 @@
 
-关注“心智理学”，近期最关注“思维理学”。
-
-<sup>为什么不是“心智科学”和“思维科学”？因为个人相对更在意逻辑、理论、结论，而相对不太关心技术手段和实验方法。</sup>
-
 <!-- 3AD3C6 -->
 
 <!-- https://shields.io/badges/static-badge -->
@@ -10,9 +6,13 @@
 [![jsontool](https://img.shields.io/badge/🪄%20%20%20%20jsontool-fff)](https://tridict.github.io/jsontool/) 
 [![AgentCompany](https://img.shields.io/badge/🤖%20%20%20%20AgentCompany-fff)](https://gitforziio.github.io/agent-company/) 
 
-[![message board](https://img.shields.io/badge/🗯%20%20%20%20Leave%20me%20a%20message-41C464)](https://github.com/gitforziio/Personal-Message-Board/issues/new)
+关注“心智理学”，近期最关注“思维理学”。
 
-[![fav](https://img.shields.io/badge/fav-⭐️-grey)](https://github.com/gitforziio/fav)
+<sup>为什么不是“心智科学”和“思维科学”？因为个人相对更在意逻辑、理论、结论，而相对不太关心技术手段和实验方法。</sup>
+
+[![message board](https://img.shields.io/badge/🗯%20%20%20%20MSG%20Board-41C464)](https://github.com/gitforziio/Personal-Message-Board/issues/new) 
+[![fav](https://img.shields.io/badge/__-grey)](https://github.com/gitforziio/fav) 
+
 
 <!-- &theme=nord -->
 
