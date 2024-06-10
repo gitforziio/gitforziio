@@ -6,9 +6,13 @@
 [![jsontool](https://img.shields.io/badge/🪄%20%20%20%20jsontool-fff)](https://tridict.github.io/jsontool/) 
 [![AgentCompany](https://img.shields.io/badge/🤖%20%20%20%20AgentCompany-fff)](https://gitforziio.github.io/agent-company/) 
 
-关注“心智理学”，近期最关注“思维理学”。
+长期关注“心智理学”，尤其是“思维理学”。
 
 <sup>为什么不是“心智科学”和“思维科学”？因为个人相对更在意逻辑、理论、结论，而相对不太关心技术手段和实验方法。</sup>
+
+近期希望在模式识别、强化学习、多模态模型方面得到能力提升。
+
+[![2D World](https://img.shields.io/badge/👾%20%20%20%202D%20World-A68DCC)](https://gitforziio.github.io/TwoDWorld/) 
 
 [![message board](https://img.shields.io/badge/🗯%20%20%20%20MSG%20Board-41C464)](https://github.com/gitforziio/Personal-Message-Board/issues/new) 
 [![fav](https://img.shields.io/badge/__-grey)](https://github.com/gitforziio/fav) 
