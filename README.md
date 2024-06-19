@@ -10,7 +10,7 @@
 
 <sup>为什么不是“心智科学”和“思维科学”？因为个人相对更在意逻辑、理论、结论，而相对不太关心技术手段和实验方法。</sup>
 
-<sup>早期琢磨过的东西：近乎“民科”的</sup> [![唯识心智系统or唯识心理学](https://img.shields.io/badge/😅%20%20%20%20唯识心智系统%20or%20唯识心理学-AF6868)](https://github.com/ziionote/consciousness-only-psychology) <!-- 9A0100 -->
+<sup>早期琢磨过</sup> [![唯识心智系统or唯识心理学](https://img.shields.io/badge/🧠%20%20%20%20唯识心智系统%20or%20唯识心理学-AF6868)](https://github.com/ziionote/consciousness-only-psychology) <!-- 9A0100 -->
 
 近期希望在模式识别、强化学习、多模态模型方面得到能力提升。
 
