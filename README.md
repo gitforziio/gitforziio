@@ -3,6 +3,8 @@
 
 <!-- https://shields.io/badges/static-badge -->
 
+## CH Sun
+
 目前在做计算语言学/语言信息处理方面的研究。
 
 [![jsontool](https://img.shields.io/badge/🪄%20%20%20%20jsontool-fff)](https://tridict.github.io/jsontool/) 
