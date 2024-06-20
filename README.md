@@ -10,6 +10,8 @@
 [![jsontool](https://img.shields.io/badge/🪄%20%20%20%20jsontool-fff)](https://tridict.github.io/jsontool/) 
 [![AgentCompany](https://img.shields.io/badge/🤖%20%20%20%20AgentCompany-fff)](https://gitforziio.github.io/agent-company/) 
 
+[![意合图查看器](https://img.shields.io/badge/🔍%20%20%20%20意合图查看器-fff)](https://gitforziio.github.io/parataxis-graph-viewer/) 
+
 长期关注“心智理学”，尤其是“思维理学”。
 
 <sup>为什么不是“心智科学”和“思维科学”？因为个人相对更在意逻辑、理论、结论，而相对不太关心技术手段和实验方法。</sup>
