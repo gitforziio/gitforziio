@@ -7,6 +7,8 @@
 
 目前在做计算语言学/语言信息处理方面的研究。
 
+热衷于制作小工具。
+
 [![jsontool](https://img.shields.io/badge/🪄%20%20%20%20jsontool-fff)](https://tridict.github.io/jsontool/) 
 [![AgentCompany](https://img.shields.io/badge/🤖%20%20%20%20AgentCompany-fff)](https://gitforziio.github.io/agent-company/) 
 
