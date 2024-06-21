@@ -3,6 +3,8 @@
 
 <!-- https://shields.io/badges/static-badge -->
 
+---
+
 ## CH Sun
 
 目前在做计算语言学/语言信息处理方面的研究。
