@@ -17,7 +17,6 @@
 [![名词词典查看器](https://img.shields.io/badge/🔍%20%20%20%20名词词典查看器-fff)](https://www.tridict.com/QualiaRoleDB/) 
 - [![空间语义标注](https://img.shields.io/badge/🖋️%20%20%20%20空间语义标注-fff)](https://github.com/2030NLP/Sp22AnnoOL) 
 [![Crisps](https://img.shields.io/badge/🖋️%20%20%20%20Crisps标注器(半成品)-fff)](https://github.com/Tridict/Crisps) 
-- [![syntree](https://img.shields.io/badge/🌲%20%20%20%20syntree(forked)-fff)](https://github.com/gitforziio/syntree) 
 
 <!-- https://github.com/Tridict/HowNet.js -->
 
@@ -35,6 +34,15 @@
 
 [![message board](https://img.shields.io/badge/🗯%20%20%20%20MSG%20Board-41C464)](https://github.com/gitforziio/Personal-Message-Board/issues/new) 
 [![fav](https://img.shields.io/badge/__-grey)](https://github.com/gitforziio/fav) 
+
+
+<!--
+---
+
+- [![syntree](https://img.shields.io/badge/🌲%20%20%20%20画树工具(半成品)(forked)-fff)](https://github.com/gitforziio/syntree)  
+- [![SegJS](https://img.shields.io/badge/⌨️%20%20%20%20SegJS-fff)](https://github.com/gitforziio/SegJS) 
+- [![Korean-Pinyin](https://img.shields.io/badge/🇰🇷%20%20%20%20Korean%20Pinyin-fff)](https://github.com/gitforziio/Korean-Pinyin) 
+-->
 
 
 <!-- &theme=nord -->
