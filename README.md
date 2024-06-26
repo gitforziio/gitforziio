@@ -25,7 +25,7 @@
 
 <sup>早期琢磨过</sup> [![唯识心智系统or唯识心理学](https://img.shields.io/badge/🧠%20%20%20%20唯识心智系统%20or%20唯识心理学-AF6868)](https://github.com/ziionote/consciousness-only-psychology) <!-- 9A0100 -->
 
-近期希望在模式识别、强化学习、多模态模型方面得到能力提升。
+近期希望在模式识别、强化学习、多模态模型方面得到提升。
 
 [![2D World](https://img.shields.io/badge/👾%20%20%20%202D%20World-A68DCC)](https://gitforziio.github.io/TwoDWorld/) 
 
