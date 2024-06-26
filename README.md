@@ -17,6 +17,7 @@
 [![名词词典查看器](https://img.shields.io/badge/🔍%20%20%20%20名词词典查看器-fff)](https://www.tridict.com/QualiaRoleDB/) 
 - [![空间语义标注](https://img.shields.io/badge/🖋️%20%20%20%20空间语义标注-fff)](https://github.com/2030NLP/Sp22AnnoOL) 
 [![Crisps](https://img.shields.io/badge/🖋️%20%20%20%20Crisps标注器(半成品)-fff)](https://github.com/Tridict/Crisps) 
+- [![syntree](https://img.shields.io/badge/🌲%20%20%20%20syntree(forked)-fff)](https://github.com/gitforziio/syntree) 
 
 <!-- https://github.com/Tridict/HowNet.js -->
 
