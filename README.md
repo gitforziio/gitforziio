@@ -9,6 +9,15 @@
 
 目前在做计算语言学/语言信息处理方面的研究。
 
+<!--
+中文空间语义理解评测系列工作：
+
+[![SpaCE2021](https://img.shields.io/badge/🏅%20%20%20%20SpaCE2021-fff)](https://github.com/2030NLP/SpaCE2021/) 
+[![SpaCE2022](https://img.shields.io/badge/🏅%20%20%20%20SpaCE2022-fff)](https://github.com/2030NLP/SpaCE2022/) 
+[![SpaCE2023](https://img.shields.io/badge/🏅%20%20%20%20SpaCE2023-fff)](https://github.com/2030NLP/SpaCE2023/) 
+[![SpaCE2024](https://img.shields.io/badge/🏅%20%20%20%20SpaCE2024-fff)](https://github.com/2030NLP/SpaCE2024/) 
+-->
+
 热衷于制作小工具。
 
 - [![jsontool](https://img.shields.io/badge/🪄%20%20%20%20jsontool-fff)](https://tridict.github.io/jsontool/) 
@@ -25,7 +34,7 @@
 
 <sup>早期琢磨过</sup> [![唯识心智系统or唯识心理学](https://img.shields.io/badge/🧠%20%20%20%20唯识心智系统%20or%20唯识心理学-AF6868)](https://github.com/ziionote/consciousness-only-psychology) <!-- 9A0100 -->
 
-近期希望在模式识别、强化学习、多模态模型方面得到提升。
+近几年内希望在模式识别、强化学习、多模态模型方面得到提升。
 
 [![2D World](https://img.shields.io/badge/👾%20%20%20%202D%20World-A68DCC)](https://gitforziio.github.io/TwoDWorld/) 
 
