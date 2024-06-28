@@ -49,7 +49,7 @@ The Consciousness-Only School.
 
 [![唯识心智系统or唯识心理学](https://img.shields.io/badge/🧠%20%20%20%20唯识心智系统%20or%20唯识心理学-AF6868)](https://github.com/ziionote/consciousness-only-psychology) <!-- 9A0100 -->
 
-Aspiring to enhance skills in the coming years: 
+Near future interests: 
 Pattern Recognition, Reinforcement Learning, Multimodal Models.
 
 [![2D World](https://img.shields.io/badge/👾%20%20%20%202D%20World-A68DCC)](https://gitforziio.github.io/TwoDWorld/) 
