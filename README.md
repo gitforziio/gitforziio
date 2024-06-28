@@ -7,7 +7,10 @@
 
 ## CH Sun
 
-目前在做计算语言学/语言信息处理方面的研究。
+Currently working on: 
+- Semantic Parsing, 
+- Language Knowledge Engineering, Language Intelligent System, Language Information Processing, 
+- Computational Linguistics, Chinese Language and Literature.
 
 <!--
 [![NaturalParser](https://img.shields.io/badge/🪙%20%20%20%20NaturalParser-fff)](https://gitforziio.github.io/natural-parser-doc/) 
@@ -22,13 +25,13 @@
 [![SpaCE2024](https://img.shields.io/badge/🏅%20%20%20%20SpaCE2024-fff)](https://github.com/2030NLP/SpaCE2024/) 
 -->
 
-热衷于制作小工具。
+Making tools:
 
 - [![jsontool](https://img.shields.io/badge/🪄%20%20%20%20jsontool-fff)](https://tridict.github.io/jsontool/) 
 [![AgentCompany](https://img.shields.io/badge/🤖%20%20%20%20AgentCompany-fff)](https://gitforziio.github.io/agent-company/) 
-- [![意合图查看器](https://img.shields.io/badge/🔍%20%20%20%20意合图查看器-fff)](https://gitforziio.github.io/parataxis-graph-viewer/)
-[![名词词典查看器](https://img.shields.io/badge/🔍%20%20%20%20名词词典查看器-fff)](https://www.tridict.com/QualiaRoleDB/) 
-- [![空间语义标注](https://img.shields.io/badge/🖋️%20%20%20%20空间语义标注-fff)](https://github.com/2030NLP/Sp22AnnoOL) 
+- [![意合图查看器](https://img.shields.io/badge/🔍%20%20%20%20Parataxis%20Graph%20Viewer-fff)](https://gitforziio.github.io/parataxis-graph-viewer/)
+[![名词词典查看器](https://img.shields.io/badge/🔍%20%20%20%20Visualizing%20the%20Dictionary%20of%20Chinese%20Noum%20Qualia%20Roles-fff)](https://www.tridict.com/QualiaRoleDB/) 
+- [![空间语义标注](https://img.shields.io/badge/🖋️%20%20%20%20SpaCE%20Annotator-fff)](https://github.com/2030NLP/Sp22AnnoOL) 
 
 <!-- https://github.com/Tridict/HowNet.js -->
 
@@ -38,9 +41,16 @@
 <sup>为什么不是“心智科学”和“思维科学”？因为个人相对更在意逻辑、理论、结论，而相对不太关心技术手段和实验方法。</sup>
 -->
 
-<sup>早期琢磨过</sup> [![唯识心智系统or唯识心理学](https://img.shields.io/badge/🧠%20%20%20%20唯识心智系统%20or%20唯识心理学-AF6868)](https://github.com/ziionote/consciousness-only-psychology) <!-- 9A0100 -->
+Interested in: 
+Theories of Mind, especially Theories of Thought.
 
-近几年内希望在模式识别、强化学习、多模态模型方面得到提升。
+Early interests: 
+The Consciousness-Only School. 
+
+[![唯识心智系统or唯识心理学](https://img.shields.io/badge/🧠%20%20%20%20唯识心智系统%20or%20唯识心理学-AF6868)](https://github.com/ziionote/consciousness-only-psychology) <!-- 9A0100 -->
+
+Aspiring to enhance skills in the coming years: 
+Pattern Recognition, Reinforcement Learning, Multimodal Models.
 
 [![2D World](https://img.shields.io/badge/👾%20%20%20%202D%20World-A68DCC)](https://gitforziio.github.io/TwoDWorld/) 
 
