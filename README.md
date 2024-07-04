@@ -8,9 +8,12 @@
 ## CH Sun
 
 Currently working on: 
-- Semantic Parsing, 
+- Semantic Parsing
+
+<!-- , 
 - Language Knowledge Engineering, Language Intelligent System, Language Information Processing, 
 - Computational Linguistics, Chinese Language and Literature.
+-->
 
 <!--
 [![NaturalParser](https://img.shields.io/badge/🪙%20%20%20%20NaturalParser-fff)](https://gitforziio.github.io/natural-parser-doc/) 
@@ -38,12 +41,6 @@ Making tools:
 
 <!-- https://github.com/Tridict/HowNet.js -->
 
-<!--
-长期关注“心智理学”，尤其是“思维理学”。
-
-<sup>为什么不是“心智科学”和“思维科学”？因为个人相对更在意逻辑、理论、结论，而相对不太关心技术手段和实验方法。</sup>
--->
-
 Interested in: 
 Theories of Mind, especially Theories of Thought.
 
@@ -55,13 +52,13 @@ The Consciousness-Only School.
 Near future interests: 
 Pattern Recognition, Reinforcement Learning, Multi-modal Models.
 
-[![2D World](https://img.shields.io/badge/👾%20%20%20%202D%20World-A68DCC)](https://gitforziio.github.io/TwoDWorld/) 
-
+<!--
 ---
 
-[![message board](https://img.shields.io/badge/🗯%20%20%20%20MSG%20Board-41C464)](https://github.com/gitforziio/Personal-Message-Board/issues/new) 
-[![fav](https://img.shields.io/badge/__-grey)](https://github.com/gitforziio/fav) 
+[![2D World](https://img.shields.io/badge/👾%20%20%20%202D%20World-A68DCC)](https://gitforziio.github.io/TwoDWorld/) 
 
+[![fav](https://img.shields.io/badge/__-grey)](https://github.com/gitforziio/fav) 
+-->
 
 <!--
 ---
@@ -85,19 +82,4 @@ Pattern Recognition, Reinforcement Learning, Multi-modal Models.
 [![a-Story-about-License](https://github-readme-stats.vercel.app/api/pin/?username=gitforziio&repo=a-Story-about-License)](https://github.com/gitforziio/a-Story-about-License)
 [![syntax-tree-parser](https://github-readme-stats.vercel.app/api/pin/?username=gitforziio&repo=syntax-tree-parser)](https://github.com/gitforziio/syntax-tree-parser)
 [![Korean-Pinyin](https://github-readme-stats.vercel.app/api/pin/?username=gitforziio&repo=Korean-Pinyin)](https://github.com/gitforziio/Korean-Pinyin)
--->
-
-<!--
-**gitforziio/gitforziio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
