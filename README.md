@@ -47,7 +47,8 @@ Theories of Mind, especially Theories of Thought.
 Early interests: 
 The Consciousness-Only School. 
 
-[![唯识心智系统or唯识心理学](https://img.shields.io/badge/🧠%20%20%20%20唯识心智系统%20or%20唯识心理学-AF6868)](https://github.com/ziionote/consciousness-only-psychology) <!-- 9A0100 -->
+[![唯识心智系统or唯识心理学](https://img.shields.io/badge/🧠%20%20%20%20唯识心智系统%20or%20唯识心理学-fff)](https://github.com/ziionote/consciousness-only-psychology) <!-- 9A0100 -->
+<!-- AF6868 -->
 
 Near future interests: 
 Pattern Recognition, Reinforcement Learning, Multi-modal Models.
