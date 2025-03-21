@@ -33,11 +33,11 @@ Currently working on:
 
 Making tools:
 
-- [![jsontool](https://img.shields.io/badge/🪄%20%20%20%20jsontool-fff)](https://tridict.github.io/jsontool/) 
-[![AgentCompany](https://img.shields.io/badge/🤖%20%20%20%20AgentCompany-fff)](https://gitforziio.github.io/agent-company/) 
-- [![意合图查看器](https://img.shields.io/badge/🔍%20%20%20%20Parataxis%20Graph%20Viewer-fff)](https://gitforziio.github.io/parataxis-graph-viewer/)
-[![名词词典查看器](https://img.shields.io/badge/🔍%20%20%20%20Visualizing%20the%20Dictionary%20of%20Chinese%20Noum%20Qualia%20Roles-fff)](https://tridict.github.io/QualiaRoleDB/) 
-- [![空间语义标注](https://img.shields.io/badge/🖋️%20%20%20%20SpaCE%20Annotator-fff)](https://github.com/2030NLP/Sp22AnnoOL) 
+- [![jsontool](https://img.shields.io/badge/🪄%20%20%20%20jsontool-fff?style=flat)](https://tridict.github.io/jsontool/) 
+[![AgentCompany](https://img.shields.io/badge/🤖-%20%20%20%20AgentCompany-fff?style=flat&colorA=000000&colorB=000000)](https://gitforziio.github.io/agent-company/) 
+- [![意合图查看器](https://img.shields.io/badge/🔍%20%20%20%20Parataxis%20Graph%20Viewer-fff?style=flat)](https://gitforziio.github.io/parataxis-graph-viewer/)
+[![名词词典查看器](https://img.shields.io/badge/🔍%20%20%20%20Visualizing%20the%20Dictionary%20of%20Chinese%20Noum%20Qualia%20Roles-fff?style=flat)](https://tridict.github.io/QualiaRoleDB/) 
+- [![空间语义标注](https://img.shields.io/badge/🖋️%20%20%20%20SpaCE%20Annotator-fff?style=flat)](https://github.com/2030NLP/Sp22AnnoOL) 
 
 <!-- https://github.com/Tridict/HowNet.js -->
 
@@ -47,7 +47,7 @@ Theories of Mind, especially Theories of Thought.
 Early interests: 
 The Consciousness-Only School. 
 
-[![唯识心智系统or唯识心理学](https://img.shields.io/badge/🧠%20%20%20%20唯识心智系统%20or%20唯识心理学-fff)](https://github.com/ziionote/consciousness-only-psychology) <!-- 9A0100 -->
+[![唯识心智系统or唯识心理学](https://img.shields.io/badge/🧠%20%20%20%20唯识心智系统%20or%20唯识心理学-fff?style=flat)](https://github.com/ziionote/consciousness-only-psychology) <!-- 9A0100 -->
 <!-- AF6868 -->
 
 Near future interests: 
