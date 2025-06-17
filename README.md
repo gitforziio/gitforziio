@@ -8,6 +8,9 @@
 <!-- ## CH Sun -->
 
 Currently working on: 
+
+- [AI小镇做题家 Swot](https://github.com/ziioai/swot)
+
 - Semantic Parsing
 
 <!-- , 
