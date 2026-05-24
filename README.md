@@ -9,21 +9,8 @@
 
 Currently working on: 
 
-- [AI小镇做题家 Swot](https://github.com/ziioai/swot)
-
+- Agents
 - Semantic Parsing
-
-<!-- , 
-- Language Knowledge Engineering, Language Intelligent System, Language Information Processing, 
-- Computational Linguistics, Chinese Language and Literature.
--->
-
-<!--
-[![NaturalParser](https://img.shields.io/badge/🪙%20%20%20%20NaturalParser-fff)](https://gitforziio.github.io/natural-parser-doc/) 
--->
-
-- [![RulesEditor](https://img.shields.io/badge/🖋️%20%20%20%20RulesEditor%20(In%20Dev)-fff)](https://gitforziio.github.io/rules-editor/)
-
 
 <!--
 中文空间语义理解评测系列工作：
@@ -36,25 +23,31 @@ Currently working on:
 
 Making tools:
 
+- [![Agent Playground](https://img.shields.io/badge/🤖%20%20%20%20Agent%20Playground-fff?style=flat)](https://ziioai.github.io/js-ai/) [![Alt. Version](https://img.shields.io/badge/🤖-%20%20%20%20Alt.%20Version-fff?style=flat&colorA=000000&colorB=000000)](https://gitforziio.github.io/agent-company/) 
 - [![jsontool](https://img.shields.io/badge/🪄%20%20%20%20jsontool-fff?style=flat)](https://tridict.github.io/jsontool/) 
-[![AgentCompany](https://img.shields.io/badge/🤖-%20%20%20%20AgentCompany-fff?style=flat&colorA=000000&colorB=000000)](https://gitforziio.github.io/agent-company/) 
 - [![意合图查看器](https://img.shields.io/badge/🔍%20%20%20%20Parataxis%20Graph%20Viewer-fff?style=flat)](https://gitforziio.github.io/parataxis-graph-viewer/)
 [![名词词典查看器](https://img.shields.io/badge/🔍%20%20%20%20Visualizing%20the%20Dictionary%20of%20Chinese%20Noum%20Qualia%20Roles-fff?style=flat)](https://tridict.github.io/QualiaRoleDB/) 
 - [![空间语义标注](https://img.shields.io/badge/🖋️%20%20%20%20SpaCE%20Annotator-fff?style=flat)](https://github.com/2030NLP/Sp22AnnoOL) 
+- [AI小镇做题家 Swot](https://github.com/ziioai/swot) 
 
 <!-- https://github.com/Tridict/HowNet.js -->
 
+<!--
 Interested in: 
 Theories of Mind, especially Theories of Thought.
 
 Early interests: 
 The Consciousness-Only School. 
 
-[![唯识心智系统or唯识心理学](https://img.shields.io/badge/🧠%20%20%20%20唯识心智系统%20or%20唯识心理学-fff?style=flat)](https://github.com/ziionote/consciousness-only-psychology) <!-- 9A0100 -->
+[![唯识心智系统or唯识心理学](https://img.shields.io/badge/🧠%20%20%20%20唯识心智系统%20or%20唯识心理学-fff?style=flat)](https://github.com/ziionote/consciousness-only-psychology)
+-->
+<!-- 9A0100 -->
 <!-- AF6868 -->
 
+<!--
 Near future interests: 
 Pattern Recognition, Reinforcement Learning, Multi-modal Models.
+-->
 
 <!--
 ---
