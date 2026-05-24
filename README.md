@@ -25,10 +25,13 @@ Making tools:
 
 - [![Agent Playground](https://img.shields.io/badge/🤖%20%20%20%20Agent%20Playground-fff?style=flat)](https://ziioai.github.io/js-ai/) [![Alt. Version](https://img.shields.io/badge/🤖-%20%20%20%20Alt.%20Version-fff?style=flat&colorA=000000&colorB=000000)](https://gitforziio.github.io/agent-company/) 
 - [![jsontool](https://img.shields.io/badge/🪄%20%20%20%20jsontool-fff?style=flat)](https://tridict.github.io/jsontool/) 
+- [AI小镇做题家 Swot](https://github.com/ziioai/swot) 
+
+<!--
 - [![意合图查看器](https://img.shields.io/badge/🔍%20%20%20%20Parataxis%20Graph%20Viewer-fff?style=flat)](https://gitforziio.github.io/parataxis-graph-viewer/)
 [![名词词典查看器](https://img.shields.io/badge/🔍%20%20%20%20Visualizing%20the%20Dictionary%20of%20Chinese%20Noum%20Qualia%20Roles-fff?style=flat)](https://tridict.github.io/QualiaRoleDB/) 
 - [![空间语义标注](https://img.shields.io/badge/🖋️%20%20%20%20SpaCE%20Annotator-fff?style=flat)](https://github.com/2030NLP/Sp22AnnoOL) 
-- [AI小镇做题家 Swot](https://github.com/ziioai/swot) 
+-->
 
 <!-- https://github.com/Tridict/HowNet.js -->
 
